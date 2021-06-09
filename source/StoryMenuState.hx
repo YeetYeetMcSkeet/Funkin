@@ -29,7 +29,8 @@ class StoryMenuState extends MusicBeatState
 		['Pico', 'Philly', "Blammed"],
 		['Satin-Panties', "High", "Milf"],
 		['Cocoa', 'Eggnog', 'Winter-Horrorland'],
-		['Senpai', 'Roses', 'Thorns']
+		['Senpai', 'Roses', 'Thorns'],
+		['Yeet', 'Control', 'Sand']
 	];
 	var curDifficulty:Int = 1;
 
@@ -42,7 +43,8 @@ class StoryMenuState extends MusicBeatState
 		['pico', 'bf', 'gf'],
 		['mom', 'bf', 'gf'],
 		['parents-christmas', 'bf', 'gf'],
-		['senpai', 'bf', 'gf']
+		['senpai', 'bf', 'gf'],
+		['dyna','bf','gf']
 	];
 
 	var weekNames:Array<String> = [
@@ -53,6 +55,7 @@ class StoryMenuState extends MusicBeatState
 		"MOMMY MUST MURDER",
 		"RED SNOW",
 		"hating simulator ft. moawling"
+		"Omega Dyna by YeetYeetMcSkeet"
 	];
 
 	var txtWeekTitle:FlxText;
