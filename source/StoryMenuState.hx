@@ -55,7 +55,7 @@ class StoryMenuState extends MusicBeatState
 		"MOMMY MUST MURDER",
 		"RED SNOW",
 		"hating simulator ft. moawling"
-		"Omega Dyna by YeetYeetMcSkeet"
+		"Omega Dyna by Yeet Games"
 	];
 
 	var txtWeekTitle:FlxText;
